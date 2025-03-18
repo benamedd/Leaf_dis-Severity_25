@@ -1,0 +1,17 @@
+{
+  "name": "leaf-analysis",
+  "version": "1.0.0",
+  "description": "Analyse de la s�v�rit� des feuilles avec Node.js et OpenCV.js",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "opencv4nodejs": "^5.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
